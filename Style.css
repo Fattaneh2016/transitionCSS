@@ -1,0 +1,16 @@
+
+#myimg {
+    
+    
+    transform:scale(2) translate(40px 99px);
+}
+
+body{
+    background-color: #f00;
+    
+}
+div {
+    -ms-transform: scale(5); /* IE 9 */
+    -webkit-transform: scale(5); /* Safari */
+    transform: scale(5);
+}
